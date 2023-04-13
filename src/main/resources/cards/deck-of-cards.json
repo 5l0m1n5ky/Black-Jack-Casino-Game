@@ -1,0 +1,267 @@
+[
+  {
+    "valueOfCard": "2",
+    "indexOfCard": 0,
+    "imagePath": "/cards/clubs_2.png"
+  },
+  {
+    "valueOfCard": "3",
+    "indexOfCard": 1,
+    "imagePath": "/cards/clubs_3.png"
+  },
+  {
+    "valueOfCard": "4",
+    "indexOfCard": 2,
+    "imagePath": "/cards/clubs_4.png"
+  },
+  {
+    "valueOfCard": "5",
+    "indexOfCard": 3,
+    "imagePath": "/cards/clubs_5.png"
+  },
+  {
+    "valueOfCard": "6",
+    "indexOfCard": 4,
+    "imagePath": "/cards/clubs_6.png"
+  },
+  {
+    "valueOfCard": "7",
+    "indexOfCard": 5,
+    "imagePath": "/cards/clubs_7.png"
+  },
+  {
+    "valueOfCard": "8",
+    "indexOfCard": 6,
+    "imagePath": "/cards/clubs_8.png"
+  },
+  {
+    "valueOfCard": "9",
+    "indexOfCard": 7,
+    "imagePath": "/cards/clubs_9.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 8,
+    "imagePath": "/cards/clubs_10.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 9,
+    "imagePath": "/cards/clubs_j.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 10,
+    "imagePath": "/cards/clubs_k.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 11,
+    "imagePath": "/cards/clubs_q.png"
+  },
+  {
+    "valueOfCard": "ace",
+    "indexOfCard": 12,
+    "imagePath": "/cards/clubs_ace.png"
+  },
+  {
+    "valueOfCard": "2",
+    "indexOfCard": 13,
+    "imagePath": "/cards/diamond_2.png"
+  },
+  {
+    "valueOfCard": "3",
+    "indexOfCard": 14,
+    "imagePath": "/cards/diamond_3.png"
+  },
+  {
+    "valueOfCard": "4",
+    "indexOfCard": 15,
+    "imagePath": "/cards/diamond_4.png"
+  },
+  {
+    "valueOfCard": "5",
+    "indexOfCard": 16,
+    "imagePath": "/cards/diamond_5.png"
+  },
+  {
+    "valueOfCard": "6",
+    "indexOfCard": 17,
+    "imagePath": "/cards/diamond_6.png"
+  },
+  {
+    "valueOfCard": "7",
+    "indexOfCard": 18,
+    "imagePath": "/cards/diamond_7.png"
+  },
+  {
+    "valueOfCard": "8",
+    "indexOfCard": 19,
+    "imagePath": "/cards/diamond_8.png"
+  },
+  {
+    "valueOfCard": "9",
+    "indexOfCard": 20,
+    "imagePath": "/cards/diamond_9.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 21,
+    "imagePath": "/cards/diamond_10.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 22,
+    "imagePath": "/cards/diamond_j.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 23,
+    "imagePath": "/cards/diamond_k.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 24,
+    "imagePath": "/cards/diamond_q.png"
+  },
+  {
+    "valueOfCard": "ace",
+    "indexOfCard": 25,
+    "imagePath": "/cards/diamond_ace.png"
+  },
+  {
+    "valueOfCard": "2",
+    "indexOfCard": 26,
+    "imagePath": "/cards/heart_2.png"
+  },
+  {
+    "valueOfCard": "3",
+    "indexOfCard": 27,
+    "imagePath": "/cards/heart_3.png"
+  },
+  {
+    "valueOfCard": "4",
+    "indexOfCard": 28,
+    "imagePath": "/cards/heart_4.png"
+  },
+  {
+    "valueOfCard": "5",
+    "indexOfCard": 29,
+    "imagePath": "/cards/heart_5.png"
+  },
+  {
+    "valueOfCard": "6",
+    "indexOfCard": 30,
+    "imagePath": "/cards/heart_6.png"
+  },
+  {
+    "valueOfCard": "7",
+    "indexOfCard": 31,
+    "imagePath": "/cards/heart_7.png"
+  },
+  {
+    "valueOfCard": "8",
+    "indexOfCard": 32,
+    "imagePath": "/cards/heart_8.png"
+  },
+  {
+    "valueOfCard": "9",
+    "indexOfCard": 33,
+    "imagePath": "/cards/heart_9.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 34,
+    "imagePath": "/cards/heart_10.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 35,
+    "imagePath": "/cards/heart_j.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 36,
+    "imagePath": "/cards/heart_k.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 37,
+    "imagePath": "/cards/heart_q.png"
+  },
+  {
+    "valueOfCard": "ace",
+    "indexOfCard": 38,
+    "imagePath": "/cards/heart_ace.png"
+  },
+  {
+    "valueOfCard": "2",
+    "indexOfCard": 39,
+    "imagePath": "/cards/spades_2.png"
+  },
+  {
+    "valueOfCard": "3",
+    "indexOfCard": 40,
+    "imagePath": "/cards/spades_3.png"
+  },
+  {
+    "valueOfCard": "4",
+    "indexOfCard": 41,
+    "imagePath": "/cards/spades_4.png"
+  },
+  {
+    "valueOfCard": "5",
+    "indexOfCard": 42,
+    "imagePath": "/cards/spades_5.png"
+  },
+  {
+    "valueOfCard": "6",
+    "indexOfCard": 43,
+    "imagePath": "/cards/spades_6.png"
+  },
+  {
+    "valueOfCard": "7",
+    "indexOfCard": 44,
+    "imagePath": "/cards/spades_7.png"
+  },
+  {
+    "valueOfCard": "8",
+    "indexOfCard": 45,
+    "imagePath": "/cards/spades_8.png"
+  },
+  {
+    "valueOfCard": "9",
+    "indexOfCard": 46,
+    "imagePath": "/cards/spades_9.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 47,
+    "imagePath": "/cards/spades_10.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 48,
+    "imagePath": "/cards/spades_j.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 49,
+    "imagePath": "/cards/spades_k.png"
+  },
+  {
+    "valueOfCard": "10",
+    "indexOfCard": 50,
+    "imagePath": "/cards/spades_q.png"
+  },
+  {
+    "valueOfCard": "ace",
+    "indexOfCard": 51,
+    "imagePath": "/cards/spades_ace.png"
+  },
+  {
+    "valueOfCard": "0",
+    "indexOfCard": 52,
+    "imagePath": "/cards/back.png"
+  }
+]
